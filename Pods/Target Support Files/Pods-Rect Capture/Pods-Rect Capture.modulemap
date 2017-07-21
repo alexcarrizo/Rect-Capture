@@ -1,0 +1,6 @@
+framework module Pods_Rect_Capture {
+  umbrella header "Pods-Rect Capture-umbrella.h"
+
+  export *
+  module * { export * }
+}
